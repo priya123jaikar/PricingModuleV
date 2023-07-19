@@ -1,0 +1,8 @@
+.*
+!.coveragerc
+!.github/
+!.gitignore
+!.travis.yml
+*.py[co]
+*~
+*\.egg*
